@@ -181,3 +181,4 @@ def verifyChecksum(File file, MessageDigest digest, String expectedChecksum) {
 
 def downloadFile(String remoteUrl, File file, MessageDigest digest) {
     logger
+}
